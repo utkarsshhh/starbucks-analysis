@@ -31,7 +31,7 @@ The following libraries have been used for the application:
 
 
 ## Result
-Classification models from scikit-learn library have been used to predict whether the user will avail the benefits of the offer or not using multi target classification. The trained model in a pickle format as __updated_model.pkl__ . The detailed analysis and result can be found [here](#)
+Classification models from scikit-learn library have been used to predict whether the user will avail the benefits of the offer or not using multi target classification. The trained model in a pickle format as __updated_model.pkl__ . The detailed analysis and result can be found [here](https://medium.com/@utkarshpadia/how-to-improve-customer-engagement-by-analysing-past-data-27a702ff8f60)
 
 
 
