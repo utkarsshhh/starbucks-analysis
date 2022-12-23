@@ -17,7 +17,7 @@ The results of this analysis can have the following applications:
 The code is in a Jupyter Notebok __model_creation.ipynb__ and requires Python 3.9 to run it. The Jupyter Notebook can be run in browser or installed from [here](https://jupyter.org)
 
 ### Data
-The dataset is present in __data__ folder in the project directory. The folder is not present in the repository because of data privacy concerns.
+The dataset is present in __data__ folder in the project directory. It contains three files profile.json, portfolio.json and transcript.json
 
 ### Libraries
 The following libraries have been used for the application:
